@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Flare",
   "logo": {
-    "dark": "/logo/logo_full.svg",
-    "light": "/logo/logo_full.svg"
+    "dark": "/logo/logo_full.png",
+    "light": "/logo/logo_full.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/logo.png",
   "colors": {
     "primary": "#34284a",
     "light": "#6a4f9c",
